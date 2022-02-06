@@ -1,0 +1,18 @@
+h1 {
+  color: blue;
+  font-family: Comic Sans;
+}
+h3 {
+  color: red;
+    }
+
+li {
+  font-size: 20px
+    }
+
+<style>
+div {
+  background-image: source src=('https://media.istockphoto.com/vectors/heart-texture-on-white-background-hand-drawn-hearts-seamless-pattern-vector-id1201608417');
+}
+</style>
+
